@@ -1,7 +1,13 @@
-## LilyGO tester UV
+## LilyGO tester UV 
 
  
- Prosty tester UV.
+
+ 
+Prosty tester UV. Używam do testowania okularów.
+
+# Linki 
+
+ 
  https://www.lilygo.cc/products/t-display-s3
  https://docs.sparkfun.com/SparkFun_Spectral_UV_Sensor_AS7331/software_setup/
  AS7331
